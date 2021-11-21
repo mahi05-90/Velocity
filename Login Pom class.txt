@@ -1,0 +1,36 @@
+package com.POM;
+
+import org.openqa.selenium.WebDriver;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+
+public class HrmLogin {
+
+	//Website: https://opensource-demo.orangehrmlive.com/
+
+	@FindBy(xpath="//input[@name='txtUsername']") private WebElement username;
+	@FindBy(xpath="//input[@name='txtPassword']") private WebElement password;
+	@FindBy(xpath="//input[@type='submit']") private WebElement login;
+	
+	
+	public HrmLogin(WebDriver driver){
+		
+		PageFactory.initElements(driver, this);
+	}
+	
+	public void enterUserName(String s) {
+		username.sendKeys(s);
+		
+	}
+	public void enterPassword(String s) {
+		password.sendKeys(s);
+		
+	}
+	public void clickButton() {
+		login.click();
+	}
+
+}
