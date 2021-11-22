@@ -1,0 +1,31 @@
+Test Case Scenario:
+Remote Control of TV:
+
+1)Verify that 0 to 9 buttons are present on remote or not.
+2)Verify that Volume up and down Keys are Present or not.
+3)Verify that channel Change keys such as move to next or move to back channel are present or not.
+4)Verify that 0-9 buttons are giving correct input to tv or not.
+5)Verify that Volume up & Down keys are working properly or not.
+6)Verify that Power button is present or not.
+7)Verify that power button is switching on or off TV.
+8)Verify that mute button is present or not.
+9)Verify that Mute button is working properly and mute the sound of tv or not.
+10)Verify that Remote is having black color not.
+11)Verify that quality of Body plastic is good or not.
+12)Verify that it is Easy to hold remote in hand so that user should have some grip on it. 
+13)Verify that Menu button is Present or not.
+14)Verify that when user press menu button Menu list is opening on tv or not.
+15)Verify that All other buttons according to client requirement are present or not.
+16)Verify that Size and Shape is Correct as per requirement or not.
+17)Verify that battery Tray is available pr not.
+18)Verify that remote is able to fit battery inside the battery tray easily or not.
+19)Verify that remote sensor is working or not.
+20)Verify that the sencor is from how much large distance it intract with TV.
+21)Verify that User can able to use remote without holding sensor towords TV he can able to use in Any direction.
+22)Verify that Sensor is not generating harmful signal from it.
+23)Verify that brand name printed on remote should not get errased easily.
+24)Verify that Remote Buttons made up of Rubber as per client requirement or not.
+25)Verify that Remote Buttons are smooth to press or not.
+26)Verify that Numbers or other buttons Printing should not get errase easily.
+27)Verify that color of buttons is as per requirment or not.
+28)Verify that Rubber quality used for button is as per requiremnt or not.
